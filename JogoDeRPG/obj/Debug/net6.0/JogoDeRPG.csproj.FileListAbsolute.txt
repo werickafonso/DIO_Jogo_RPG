@@ -1,0 +1,15 @@
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\obj\Debug\net6.0\JogoDeRPG.csproj.AssemblyReference.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\obj\Debug\net6.0\JogoDeRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\obj\Debug\net6.0\JogoDeRPG.AssemblyInfoInputs.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\obj\Debug\net6.0\JogoDeRPG.AssemblyInfo.cs
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\obj\Debug\net6.0\JogoDeRPG.csproj.CoreCompileInputs.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\bin\Debug\net6.0\JogoDeRPG.exe
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\bin\Debug\net6.0\JogoDeRPG.deps.json
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\bin\Debug\net6.0\JogoDeRPG.runtimeconfig.json
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\bin\Debug\net6.0\JogoDeRPG.dll
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\bin\Debug\net6.0\JogoDeRPG.pdb
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\obj\Debug\net6.0\JogoDeRPG.dll
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\obj\Debug\net6.0\refint\JogoDeRPG.dll
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\obj\Debug\net6.0\JogoDeRPG.pdb
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\obj\Debug\net6.0\JogoDeRPG.genruntimeconfig.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\DIO\JogoDeRPG\obj\Debug\net6.0\ref\JogoDeRPG.dll
